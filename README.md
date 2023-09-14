@@ -2,7 +2,7 @@
 
 ## Building a Machine Learning model to predict the customer churn or retention of a telecom industry
 
-After trying the senstivity and accuracy and all the impoertant factors of logistic regression models and descision tree models, I setteled on a logistic regression model.
+After trying the senstivity and accuracy and all the important factors of logistic regression models and descision tree models, I setteled on a logistic regression model.
 
 #### Steps Involved:
 * Preprocessing the data.
